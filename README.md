@@ -2,6 +2,8 @@
 
 A complete desktop image processing application built with Python, OpenCV, and Tkinter.
 
+🔗 **Interactive web version available:** [PixelForge-Web](https://github.com/m0basemwork-star/PixelForge-Web)
+
 ## 👥 Team & Modules
 
 | Member | Module(s) |
